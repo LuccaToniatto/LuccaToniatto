@@ -1,7 +1,7 @@
 <b><Lucca Rossi Toniatto</b>
 <hr>
 
-- 🌿 Eu tenho 16 anos
+- 🌿 Eu tenho 17 anos
 - 🎓 Estou no terceiro ano do ensino médio
 - 🏭 Atualmente fazendo um curso de desenvolvimento de sistemas no SENAI
 - ❓ Eu ainda não sei que área cursar e ainda estou confuso demais
